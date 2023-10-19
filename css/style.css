@@ -10,3 +10,23 @@ header {
     background-color: white;
     text-align: center;
 }
+
+h1 {
+    display: inline-block;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    margin: 0;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 48px;
+    color: #f16059;
+    text-transform: uppercase;
+}
+
+header img {
+    margin-right: 15px;
+}
+
+main {
+    width: 1000px;
+    margin: 0 auto;
+}
